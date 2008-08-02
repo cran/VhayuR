@@ -1,0 +1,197 @@
+chm\00Index.html:<td>R interface to Vhayu time series database </td></tr>
+chm\00Index.html:<tr><td width="25%"><a href="Vhayu_time-class.html">as.character.Vhayu_time</a></td>
+chm\00Index.html:<td>Vhayu_time class </td></tr>
+chm\00Index.html:<tr><td width="25%"><a href="Vhayu_time-class.html">as.chron.Vhayu_time</a></td>
+chm\00Index.html:<td>Vhayu_time class </td></tr>
+chm\00Index.html:<tr><td width="25%"><a href="Vhayu_time-class.html">as.data.frame.Vhayu_time</a></td>
+chm\00Index.html:<td>Vhayu_time class </td></tr>
+chm\00Index.html:<tr><td width="25%"><a href="Vhayu_time-class.html">as.Date.Vhayu_time</a></td>
+chm\00Index.html:<td>Vhayu_time class </td></tr>
+chm\00Index.html:<tr><td width="25%"><a href="Vhayu_time-class.html">as.numeric.Vhayu_time</a></td>
+chm\00Index.html:<td>Vhayu_time class </td></tr>
+chm\00Index.html:<tr><td width="25%"><a href="Vhayu_time-class.html">as.POSIXct.Vhayu_time</a></td>
+chm\00Index.html:<td>Vhayu_time class </td></tr>
+chm\00Index.html:<tr><td width="25%"><a href="Vhayu_time-class.html">as.Vhayu_time</a></td>
+chm\00Index.html:<td>Vhayu_time class </td></tr>
+chm\00Index.html:<tr><td width="25%"><a href="Vhayu_time-class.html">as.yearmon.Vhayu_time</a></td>
+chm\00Index.html:<td>Vhayu_time class </td></tr>
+chm\00Index.html:<tr><td width="25%"><a href="Vhayu_time-class.html">as.yearqtr.Vhayu_time</a></td>
+chm\00Index.html:<td>Vhayu_time class </td></tr>
+chm\00Index.html:<tr><td width="25%"><a href="Vhayu_time-class.html">format.Vhayu_time</a></td>
+chm\00Index.html:<td>Vhayu_time class </td></tr>
+chm\00Index.html:<tr><td width="25%"><a href="Vhayu_time-class.html">print.Vhayu_time</a></td>
+chm\00Index.html:<td>Vhayu_time class </td></tr>
+chm\00Index.html:<tr><td width="25%"><a href="Vhayu_time-class.html">[.Vhayu_time</a></td>
+chm\00Index.html:<td>Vhayu_time class </td></tr>
+chm\vh.get.data.frame.html:zoo object. The times are returned as values of <code>Vhayu_time-class</code>
+chm\vh.get.data.frame.html:a function that converts times from Vhayu_time class to whatever class is
+chm\vh.get.data.frame.html:desired.  See <code>link{Vhayu_time-class}</code> for a list of pre-written functions.</p>
+chm\VhayuR-package.html:<html><head><title>R interface to Vhayu time series database</title>
+chm\VhayuR-package.html:<param name="keyword" value=" R interface to Vhayu time series database">
+chm\VhayuR-package.html:<h2>R interface to Vhayu time series database</h2>
+chm\VhayuR-package.html:R interface to Vhayu time series database
+chm\VhayuR.hhp:Vhayu_time-class.html
+chm\VhayuR.toc:<param name="Name" value="as.character.Vhayu_time">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="as.chron.Vhayu_time">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="as.data.frame.Vhayu_time">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="as.Date.Vhayu_time">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="as.numeric.Vhayu_time">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="as.POSIXct.Vhayu_time">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="as.Vhayu_time">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="as.Vhayu_time.character">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="as.Vhayu_time.chron">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="as.Vhayu_time.numeric">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="as.Vhayu_time.Vhayu_time">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="as.yearmon.Vhayu_time">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="as.yearqtr.Vhayu_time">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="format.Vhayu_time">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="print.Vhayu_time">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="[.Vhayu_time">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\VhayuR.toc:<param name="Name" value="R interface to Vhayu time series database ">
+chm\VhayuR.toc:<param name="Name" value="Vhayu_time class ">
+chm\VhayuR.toc:<param name="Local" value="Vhayu_time-class.html">
+chm\Vhayu_time-class.html:<html><head><title>Vhayu_time class</title>
+chm\Vhayu_time-class.html:<table width="100%"><tr><td>Vhayu_time-class(VhayuR)</td><td align="right">R Documentation</td></tr></table><object type="application/x-oleobject" classid="clsid:1e2a7bd0-dab9-11d0-b93a-00c04fc99f9e">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   as.Vhayu_time">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   as.character.Vhayu_time">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   as.chron.Vhayu_time">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   as.data.frame.Vhayu_time">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   as.Date.Vhayu_time">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   as.numeric.Vhayu_time">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   as.POSIXct.Vhayu_time">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   as.Vhayu_time.character">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   as.Vhayu_time.chron">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   as.Vhayu_time.numeric">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   as.Vhayu_time">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   as.Vhayu_time.Vhayu_time">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   as.yearmon.Vhayu_time">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   as.yearqtr.Vhayu_time">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   format.Vhayu_time">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   print.Vhayu_time">
+chm\Vhayu_time-class.html:<param name="keyword" value="R:   [.Vhayu_time">
+chm\Vhayu_time-class.html:<param name="keyword" value=" Vhayu_time class">
+chm\Vhayu_time-class.html:<h2>Vhayu_time class</h2>
+chm\Vhayu_time-class.html:Vhayu_time class.
+chm\Vhayu_time-class.html:as.Vhayu_time(x)
+chm\Vhayu_time-class.html:The <code>Vhayu_time</code> class represents time using the same numeric that the
+chm\Vhayu_time-class.html:the generic, <code>"as.Vhayu_time"</code> and these methods:
+chm\Vhayu_time-class.html:<code>"as.Vhayu_time.character"</code>, 
+chm\Vhayu_time-class.html:<code>"as.Vhayu_time.chron"</code>, 
+chm\Vhayu_time-class.html:<code>"as.Vhayu_time.numeric"</code>, 
+chm\Vhayu_time-class.html:<code>"as.Vhayu_time.Vhayu_time"</code>, 
+chm\Vhayu_time-class.html:and <code>"as.yearmon.Vhayu_time"</code>.
+chm\Vhayu_time-class.html:The <code>"as.Vhayu_time.numeric"</code> method assumes that the input number 
+chm\Vhayu_time-class.html:<code>"as.character.Vhayu_time"</code>, 
+chm\Vhayu_time-class.html:<code>"as.chron.Vhayu_time"</code>, 
+chm\Vhayu_time-class.html:<code>"as.data.frame.Vhayu_time"</code>, 
+chm\Vhayu_time-class.html:<code>"as.Date.Vhayu_time"</code>, 
+chm\Vhayu_time-class.html:<code>"as.numeric.Vhayu_time"</code>, 
+chm\Vhayu_time-class.html:<code>"as.POSIXct.Vhayu_time"</code>, 
+chm\Vhayu_time-class.html:<code>"as.yearqtr.Vhayu_time"</code>, 
+chm\Vhayu_time-class.html:<code>"format.Vhayu_time"</code>, 
+chm\Vhayu_time-class.html:<code>"print.Vhayu_time"</code>, 
+chm\Vhayu_time-class.html:<code>"[.Vhayu_time"</code>.
+chm\Vhayu_time-class.html:x &lt;- as.Vhayu_time(now)
+man\.Vhayu_time-class.Rd.swp:b0VIM 7.1      lO“H    ,  Louis                                   LOUIS-PC                                C:/tmp2/VhayuR2/VhayuR/man/Vhayu_time-class.Rd                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     3210#"! U                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     tp ÿ      E                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ad  9  a     E   è  Ò  ²  –  u  Z  <    þ  â  Ä  ®    o  Q  7    	    í  ß  Ì  Ê  Â  ±  ¯  v  j  A  ?  5  4  è  ˜  J      î  ·  ”  u  T  0    Ã
+man\.Vhayu_time-class.Rd.swp:  ö	  Ò	  ´	  “	  r	  Q	  4	  	  	   	  ³  ±  ¦  ”  |  q  p  n  a  `                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       \keyword{ts} }  as.Date(x) x <- as.Vhayu_time(now) now <- Sys.time() \examples{ } The \code{chron} package must be loaded in order to use the relevant method.  \code{"[.Vhayu_time"}. \code{"print.Vhayu_time"},  \code{"format.Vhayu_time"},  \code{"as.yearqtr.Vhayu_time"},  \code{"as.POSIXct.Vhayu_time"},  \code{"as.numeric.Vhayu_time"},  \code{"as.Date.Vhayu_time"},  \code{"as.data.frame.Vhayu_time"},  \code{"as.chron.Vhayu_time"},  \code{"as.character.Vhayu_time"},  generics in the core of \code{R}: There is also support for the following methods to   is in serial or string (actually a numeric) format. The \code{"as.Vhayu_time.numeric"} method assumes that the input number  and \code{"as.yearmon.Vhayu_time"}. \code{"as.Vhayu_time.Vhayu_time"},  \code{"as.Vhayu_time.numeric"},  \code{"as.Vhayu_time.chron"},  \code{"as.Vhayu_time.character"},  the generic, \code{"as.Vhayu_time"} and these methods: There is support for   since January 1, 1970).  \code{VHtime} is not currently supported.   a numeric format, not a string) and Vhayu serial representation (i.e. seconds Vhayu data base uses.  It supports \code{Vhayu} string representation (actually The \code{Vhayu_time} class represents time using the same numeric that the  \details{ }   \item{x}{ ~~Describe \code{x} here~~ } \arguments{ %- maybe also 'usage' for other objects documented here. } as.Vhayu_time(x) \usage{ } 	Vhayu_time class. \description{ \title{ Vhayu_time class }  \alias{[.Vhayu_time} \alias{print.Vhayu_time} \alias{format.Vhayu_time} \alias{as.yearqtr.Vhayu_time} \alias{as.yearmon.Vhayu_time} \alias{as.Vhayu_time.Vhayu_time} \alias{as.Vhayu_time} \alias{as.Vhayu_time.numeric} \alias{as.Vhayu_time.chron} \alias{as.Vhayu_time.character} \alias{as.POSIXct.Vhayu_time} \alias{as.numeric.Vhayu_time} \alias{as.Date.Vhayu_time} \alias{as.data.frame.Vhayu_time} \alias{as.chron.Vhayu_time} \alias{as.character.Vhayu_time} \alias{as.Vhayu_time} \name{Vhayu_time-class} man\vh.get.data.frame.Rd:zoo object. The times are returned as values of \code{\link{Vhayu_time-class}}
+man\vh.get.data.frame.Rd:a function that converts times from Vhayu_time class to whatever class is
+man\vh.get.data.frame.Rd:desired.  See \code{link{Vhayu_time-class}} for a list of pre-written functions.
+man\vh.get.data.frame.Rd~:zoo object. The times are returned as values of \code{\link{Vhayu_time-class}}
+man\vh.get.data.frame.Rd~:a function that converts times from Vhayu_time class to whatever class is
+man\vh.get.data.frame.Rd~:desired.  See \code{link{Vhayu_time-class}} for a list of pre-written functions.
+man\VhayuR-package.Rd:\title{ R interface to Vhayu time series database }
+man\VhayuR-package.Rd:R interface to Vhayu time series database
+man\VhayuR-package.Rd~:\title{ R interface to Vhayu time series database }
+man\VhayuR-package.Rd~:R interface to Vhayu time series database
+man\Vhayu_time-class.Rd:\name{Vhayu_time-class}
+man\Vhayu_time-class.Rd:\alias{as.Vhayu_time}
+man\Vhayu_time-class.Rd:\alias{as.character.Vhayu_time}
+man\Vhayu_time-class.Rd:\alias{as.chron.Vhayu_time}
+man\Vhayu_time-class.Rd:\alias{as.data.frame.Vhayu_time}
+man\Vhayu_time-class.Rd:\alias{as.Date.Vhayu_time}
+man\Vhayu_time-class.Rd:\alias{as.numeric.Vhayu_time}
+man\Vhayu_time-class.Rd:\alias{as.POSIXct.Vhayu_time}
+man\Vhayu_time-class.Rd:\alias{as.Vhayu_time.character}
+man\Vhayu_time-class.Rd:\alias{as.Vhayu_time.chron}
+man\Vhayu_time-class.Rd:\alias{as.Vhayu_time.numeric}
+man\Vhayu_time-class.Rd:\alias{as.Vhayu_time}
+man\Vhayu_time-class.Rd:\alias{as.Vhayu_time.Vhayu_time}
+man\Vhayu_time-class.Rd:\alias{as.yearmon.Vhayu_time}
+man\Vhayu_time-class.Rd:\alias{as.yearqtr.Vhayu_time}
+man\Vhayu_time-class.Rd:\alias{format.Vhayu_time}
+man\Vhayu_time-class.Rd:\alias{print.Vhayu_time}
+man\Vhayu_time-class.Rd:\alias{[.Vhayu_time}
+man\Vhayu_time-class.Rd:\title{ Vhayu_time class }
+man\Vhayu_time-class.Rd:	Vhayu_time class.
+man\Vhayu_time-class.Rd:as.Vhayu_time(x)
+man\Vhayu_time-class.Rd:The \code{Vhayu_time} class represents time using the same numeric that the
+man\Vhayu_time-class.Rd:the generic, \code{"as.Vhayu_time"} and these methods:
+man\Vhayu_time-class.Rd:\code{"as.Vhayu_time.character"}, 
+man\Vhayu_time-class.Rd:\code{"as.Vhayu_time.chron"}, 
+man\Vhayu_time-class.Rd:\code{"as.Vhayu_time.numeric"}, 
+man\Vhayu_time-class.Rd:\code{"as.Vhayu_time.Vhayu_time"}, 
+man\Vhayu_time-class.Rd:and \code{"as.yearmon.Vhayu_time"}.
+man\Vhayu_time-class.Rd:The \code{"as.Vhayu_time.numeric"} method assumes that the input number 
+man\Vhayu_time-class.Rd:\code{"as.character.Vhayu_time"}, 
+man\Vhayu_time-class.Rd:\code{"as.chron.Vhayu_time"}, 
+man\Vhayu_time-class.Rd:\code{"as.data.frame.Vhayu_time"}, 
+man\Vhayu_time-class.Rd:\code{"as.Date.Vhayu_time"}, 
+man\Vhayu_time-class.Rd:\code{"as.numeric.Vhayu_time"}, 
+man\Vhayu_time-class.Rd:\code{"as.POSIXct.Vhayu_time"}, 
+man\Vhayu_time-class.Rd:\code{"as.yearqtr.Vhayu_time"}, 
+man\Vhayu_time-class.Rd:\code{"format.Vhayu_time"}, 
+man\Vhayu_time-class.Rd:\code{"print.Vhayu_time"}, 
+man\Vhayu_time-class.Rd:\code{"[.Vhayu_time"}.
+man\Vhayu_time-class.Rd:x <- as.Vhayu_time(now)
+R\VhayuR.R:# e.g. vh.get("series1") # default is as.Vhayu_time
+R\VhayuR.R:		yy[[1]] <- as.Vhayu_time(yy[[1]])
+R\VhayuR.R:as.POSIXct.Vhayu_time <- function(x, ...) {
+R\VhayuR.R:as.Date.Vhayu_time <- function(x, ...) as.Date(as.POSIXct(x), ...)
+R\VhayuR.R:as.yearmon.Vhayu_time <- function(x, ...) as.yearmon(as.POSIXct(x), ...)
+R\VhayuR.R:as.yearqtr.Vhayu_time <- function(x, ...) as.yearmon(as.POSIXct(x), ...)
+R\VhayuR.R:as.chron.Vhayu_time <- function(x, ...) as.chron(as.POSIXct(x), ...)
+R\VhayuR.R:as.numeric.Vhayu_time <- function(x, ...) unclass(x)
+R\VhayuR.R:as.character.Vhayu_time <- function(x, ...) format(x, ...)
+R\VhayuR.R:as.data.frame.Vhayu_time <- as.data.frame.Date
+R\VhayuR.R:"[.Vhayu_time" <- get("[.Date")
+R\VhayuR.R:format.Vhayu_time <- function(x, ...) format(as.POSIXct(x), ...)
+R\VhayuR.R:print.Vhayu_time <- function(x, ...) print(as.POSIXct(x), ...)
+R\VhayuR.R:as.Vhayu_time <- function(x) UseMethod("as.Vhayu_time")
+R\VhayuR.R:as.Vhayu_time.numeric <- function(x, ...) structure(x, class = "Vhayu_time")
+R\VhayuR.R:as.Vhayu_time.chron <- function(x, ...) as.Vhayu_time(as.POSIXct(x), ...)
+R\VhayuR.R:as.Vhayu_time.character <- function(x, ...) as.Vhayu_time(as.numeric(x), ...)
+R\VhayuR.R:as.Vhayu_time.Vhayu_time <- function(x, ...) x
+R\VhayuR.R~:# e.g. vh.get("series1") # default is as.Vhayu_time
+R\VhayuR.R~:		yy[[1]] <- as.Vhayu_time(yy[[1]])
+R\VhayuR.R~:as.POSIXct.Vhayu_time <- function(x, ...) {
+R\VhayuR.R~:as.Date.Vhayu_time <- function(x, ...) as.Date(as.POSIXct(x), ...)
+R\VhayuR.R~:as.yearmon.Vhayu_time <- function(x, ...) as.yearmon(as.POSIXct(x), ...)
+R\VhayuR.R~:as.yearqtr.Vhayu_time <- function(x, ...) as.yearmon(as.POSIXct(x), ...)
+R\VhayuR.R~:as.chron.Vhayu_time <- function(x, ...) as.chron(as.POSIXct(x), ...)
+R\VhayuR.R~:as.numeric.Vhayu_time <- function(x, ...) unclass(x)
+R\VhayuR.R~:as.character.Vhayu_time <- function(x, ...) format(x, ...)
+R\VhayuR.R~:as.data.frame.Vhayu_time <- as.data.frame.Date
+R\VhayuR.R~:"[.Vhayu_time" <- get("[.Date")
+R\VhayuR.R~:format.Vhayu_time <- function(x, ...) format(as.POSIXct(x), ...)
+R\VhayuR.R~:print.Vhayu_time <- function(x, ...) print(as.POSIXct(x), ...)
+R\VhayuR.R~:as.Vhayu_time <- function(x) UseMethod("as.Vhayu_time")
+R\VhayuR.R~:as.Vhayu_time.numeric <- function(x, ...) structure(x, class = "Vhayu_time")
+R\VhayuR.R~:as.Vhayu_time.chron <- function(x, ...) as.Vhayu_time(as.POSIXct(x), ...)
+R\VhayuR.R~:as.Vhayu_time.character <- function(x, ...) as.Vhayu_time(as.numeric(x), ...)
+R\VhayuR.R~:as.Vhayu_time.Vhayu_time <- function(x, ...) x

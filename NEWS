@@ -1,0 +1,33 @@
+
+Version 1.1.2
+
+o eliminated VhayuTime class.  Now we use POSIXct in its place.
+
+o eliminated logic to handle multiple time classes from Vhayu.  Vhayu
+  always sends serial time so it was unnecessary.
+
+o added example to package?VhayuR showing how to set server in R startup file
+
+
+Version 1.1.1
+
+o added NEWS file
+
+o changed prefix before variable names to vh.
+
+o aggregate argument in vh.get.zoo works with Vhayu too (previously only files)
+
+o added vh.tail1, like tail but defaults to last value. For use with aggregate.
+
+o added merge.instruments.R demo replacing prior demo
+
+o add directories on PATH to set of directories searched for dll
+
+o license is GPL-2
+
+o added SystemRequirements to DESCRIPTION file
+
+o fixed bug in vh.flexrecdef
+
+o added documentation
+

@@ -1,0 +1,25 @@
+
+Main user functions are (see sample scripts):
+
+VhayuRgetData.zoo 
+VhayuRgetData.data.frame
+VhayuRgetData.list - Vhayu only not files
+VhayuRgetData.matrix - Vhayu only not files
+
+VhayuRoptions
+VhayuRgetOption
+
+Last two work same as options/getOption in R so anyone familiar
+with R would know how to use them immeidately.
+
+VFQconnect loads dll and connects to server but this is automatically
+done by the other routines too if its not loaded so it never has to
+be invoked.
+
+VhayuRfindDLL() will find the location of the DLL using looking
+in the paths defined in the datapath option or in some common
+locations if not.
+
+VhayuRflexrecdef() gives names of all flex recs and with the name 
+as the single argument it gives an unformatted definition.
+
